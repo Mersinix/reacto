@@ -4,7 +4,7 @@ import {Button, Form} from 'react-bootstrap';
 
 function Formulaire () {
     return (
-        <div className="container">
+        <div className="container bg-dark">
       
     <Button variant="link" href="#">sign up</Button>
     <Form className='container'>
