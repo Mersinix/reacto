@@ -1,0 +1,15 @@
+.App{
+    background-color: darkgray;
+}
+.title{
+    color: red;
+}
+.red{
+    font-size: large;
+    
+}
+.img2,.img1{
+    width: 100%;
+    height: 550px;
+}
+
